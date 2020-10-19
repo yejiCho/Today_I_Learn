@@ -8,3 +8,4 @@
 ```
 
 - [CORS](https://developer.mozilla.org/ko/docs/Web/HTTP/CORS)
+- [CORS에 대한 간단한 고찰](https://velog.io/@wlsdud2194/cors)
