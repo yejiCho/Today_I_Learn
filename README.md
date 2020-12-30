@@ -19,3 +19,8 @@
 - 두정수 사이의 합
 - 문자열 내 p와 y의 갯수
 - 같은 숫자는 싫어
+
+
+# Spring 참고사이트
+
+- [RestAPI에서 datatype의 parameter처리](https://browndwarf.tistory.com/48)
