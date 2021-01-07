@@ -3,3 +3,8 @@
 - [springboot](https://4urdev.tistory.com/84)
 
 - [gradle deploy](https://gigas-blog.tistory.com/115)
+
+
+# how to send file (Base64)
+
+- [Base64로 file send](http://yoonbumtae.com/?p=2952)
