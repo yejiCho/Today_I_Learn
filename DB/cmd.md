@@ -37,3 +37,5 @@ psql -h 127.0.0.1 -p 5432 -U postgres -d TEST < c:\example_20201220.sql
 
 
 - [Failed to open the system default web browser error solution when opening PostgreSQL after installation](https://www.programmersought.com/article/63604577822/)
+
+- [pgadmin4 윈도우 접속](https://postgresql.kr/blog/postgresql_for_windows.html)
